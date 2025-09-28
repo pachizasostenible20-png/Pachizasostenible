@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pachiza Sostenible 2.0</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f9f4;
+      color: #333;
+    }
+    header {
+      background: #2e7d32;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section h2 {
+      color: #2e7d32;
+    }
+    .gallery img {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 10px;
+    }
+    footer {
+      background: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .social a {
+      margin: 0 10px;
+      color: white;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🌱 Pachiza Sostenible 2.0</h1>
+    <p>Transformando Pachiza en un distrito modelo de sostenibilidad</p>
+    <nav>
+      <a href="#vision">Visión</a>
+      <a href="#lineas">Líneas de acción</a>
+      <a href="#galeria">Galería</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="vision">
+    <h2>🌍 Nuestra Visión</h2>
+    <p>Construir un distrito modelo en sostenibilidad, donde la producción agrícola, la conservación ambiental y la participación ciudadana se integren en armonía.</p>
+  </section>
+
+  <section id="lineas">
+    <h2>🌳 Nuestras Líneas de Acción</h2>
+    <ul>
+      <li>✅ Agricultura regenerativa y abonamiento orgánico.</li>
+      <li>✅ Reforestación con bambú y especies nativas.</li>
+      <li>✅ Plataforma digital para la gestión de residuos.</li>
+      <li>✅ Ecoturismo comunitario: <b>Ruta del Mirador</b>.</li>
+      <li>✅ Viviendas sostenibles y prototipos innovadores.</li>
+    </ul>
+  </section>
+
+  <section id="galeria">
+    <h2>📸 Galería</h2>
+    <p>Aquí podrás subir tus fotos de proyectos, agricultores, paisajes y actividades.</p>
+    <div class="gallery">
+      <img src="foto1.jpg" alt="Foto de agricultura">
+      <img src="foto2.jpg" alt="Foto de reforestación">
+      <img src="foto3.jpg" alt="Paisaje de Pachiza">
+    </div>
+  </section>
+
+  <section id="contacto">
+    <h2>📲 Contáctanos</h2>
+    <p>Correo: <b>pachizasostenible2.0@gmail.com</b></p>
+    <div class="social">
+      🌿 <a href="https://facebook.com/" target="_blank">Facebook</a> |
+      🎥 <a href="https://youtube.com/" target="_blank">YouTube</a> |
+      🎶 <a href="https://tiktok.com/" target="_blank">TikTok</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Pachiza Sostenible 2.0 - Todos los derechos reservados</p>
+  </footer>
+
+</body>
+</html>
